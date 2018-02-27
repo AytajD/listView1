@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ListView1</string>
+    <string-array name="titles">
+        <item>Andrey</item>
+        <item>Zumrud</item>
+        <item>Khayala</item>
+        <item>Ivan</item>
+        <item>Leyli</item>
+        <item>Ali</item>
+        <item>Andrey</item>
+        <item>Zumrud</item>
+        <item>Khayala</item>
+        <item>Ivan</item>
+        <item>Leyli</item>
+        <item>Ali</item>
+        <item>Andrey</item>
+        <item>Zumrud</item>
+        <item>Khayala</item>
+        <item>Ivan</item>
+        <item>Leyli</item>
+        <item>Ali</item>
+
+
+    </string-array>
+    <string-array name="Description">
+        <item> Changeable Person ( Now Iceberg from Antarctica ) :d </item>
+        <item>Learning mobile development( </item>
+        <item>Young and beautiful graphic designer :) </item>
+        <item>The coolest back-end developer ;) </item>
+        <item>The sweetest teacher *-* </item>
+        <item>The worlds best bro !!! </item>
+        <item> Changeable Person ( Now Iceberg from Antarctica ) :d </item>
+        <item>Learning mobile development( </item>
+        <item>Young and beautiful graphic designer :) </item>
+        <item>The coolest back-end developer ;) </item>
+        <item>The sweetest teacher *-* </item>
+        <item>The worlds best bro !!! </item>
+        <item> Changeable Person ( Now Iceberg from Antarctica ) :d  </item>
+        <item>Learning mobile development </item>
+        <item>Young and beautiful graphic designer :) </item>
+        <item>The coolest back-end developer ;) </item>
+        <item>The sweetest teacher *-* </item>
+        <item>The worlds best bro !!! </item>
+    </string-array>
+</resources>
